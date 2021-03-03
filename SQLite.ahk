@@ -1,5 +1,5 @@
 /*
-c := {
+c := { ; I ues one config blob/object in my script, this is the relevant part for the below class to work
   SQL:{
     DLL:{
       path:"/path/to/dll"
